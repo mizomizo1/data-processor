@@ -63,11 +63,11 @@ Data columns (total 5 columns):
  4   NG_2    122 non-null    float64
 dtypes: float64(2), int64(1), object(2)
 memory usage: 5.8+ KB
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 127 entries, 0 to 126
 
 df_submit
-Data columns (total 10 columns):
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 127 entries, 0 to 126
+Data columns (total 9 columns):
  #   Column                        Non-Null Count  Dtype  
 ---  ------                        --------------  -----  
  0   id                            127 non-null    int64  
@@ -79,6 +79,6 @@ Data columns (total 10 columns):
  6   NG_3                          0 non-null      float64
  7   NG_4                          0 non-null      float64
  8   NG_5                          0 non-null      float64
-dtypes: float64(5), int64(2), object(3)
+dtypes: float64(5), int64(2), object(2)
 memory usage: 10.0+ KB
 """
