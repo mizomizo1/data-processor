@@ -50,6 +50,7 @@ class DataProcessor:
         return self.df, self.df_submit
 
 """
+df
 <class 'pandas.core.frame.DataFrame'>
 Index: 124 entries, 0 to 127
 Data columns (total 5 columns):
@@ -65,6 +66,7 @@ memory usage: 5.8+ KB
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 127 entries, 0 to 126
 
+df_submit
 Data columns (total 10 columns):
  #   Column                        Non-Null Count  Dtype  
 ---  ------                        --------------  -----  
