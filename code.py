@@ -73,13 +73,12 @@ Data columns (total 10 columns):
  0   id                            127 non-null    int64  
  1   name                          127 non-null    object 
  2   furigana                      127 non-null    object 
- 3   sex (man=" 1 ", woman=" 0 ")  127 non-null    int64  
- 4   rank                          127 non-null    object 
- 5   NG_1                          122 non-null    float64
- 6   NG_2                          122 non-null    float64
- 7   NG_3                          0 non-null      float64
- 8   NG_4                          0 non-null      float64
- 9   NG_5                          0 non-null      float64
+ 3   sex (man=" 1 ", woman=" 0 ")  127 non-null    int64 
+ 4   NG_1                          122 non-null    float64
+ 5   NG_2                          122 non-null    float64
+ 6   NG_3                          0 non-null      float64
+ 7   NG_4                          0 non-null      float64
+ 8   NG_5                          0 non-null      float64
 dtypes: float64(5), int64(2), object(3)
 memory usage: 10.0+ KB
 """
