@@ -2,6 +2,7 @@ from google.colab import drive
 import pandas as pd
 import numpy as np
 import warnings
+import matplotlib
 
 class DataProcessor:
     def __init__(self, data_path, submit_path):
